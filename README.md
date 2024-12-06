@@ -30,4 +30,3 @@ Web Developer
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bqsst&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bqsst&langs_count=8)
