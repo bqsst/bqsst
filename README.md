@@ -1,7 +1,7 @@
 Hi 👋 My name is Abbas Leenud
 =============================
 
-Web Developer
+Full-Stack Developer
 -------------
 
 * 🌍  I'm based in Thailand
